@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Project Alayon",
+    "desc": "A web-based student-led donation platform designed to support disaster relief coordination in Panabo City. The system includes donor registration, donation submission, assistance requests, an admin dashboard, announcements, and transparency reports.",
+    "image": "featured-project",
+    "category": "academic",
+    "links": {
+      "view": "https://www.figma.com/proto/NPQObArZuML5raIO60PI94/Project-Alayon-Login-Register-Page-Mockup?node-id=10-9&p=f&t=Ngp0b9HyOJOLC14n-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A9",
+      "code": "#"
+    }
+  }
+]
