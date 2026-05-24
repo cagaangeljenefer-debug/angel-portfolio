@@ -15,6 +15,7 @@ This website includes the following sections:
 - Home
 - About Me
 - Services Offered
+- Pricing
 - Skills & Abilities
 - Education
 - Certifications
@@ -78,15 +79,6 @@ Project Alayon is a web-based donation platform designed to support disaster rel
 
 ---
 
-## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)]()
-
----
-
 ## 📌 Website Features
 
 - Responsive personal portfolio layout
@@ -101,16 +93,6 @@ Project Alayon is a web-based donation platform designed to support disaster rel
 - Gmail-directed contact form
 - Back-to-top button
 - Modern portfolio branding
-
----
-
-## 📌 Extra Libraries Used
-
-- Font Awesome
-- jQuery
-- Particle.js
-- Vanilla Tilt.js
-- ScrollReveal.js
 
 ---
 
